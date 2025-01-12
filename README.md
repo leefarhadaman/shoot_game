@@ -89,11 +89,6 @@ Space Attack is a fun, retro-style 2D space shooter game built with React. The g
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgements
 
